@@ -21,8 +21,8 @@ A dynamic Python dashboard that transforms raw fitness data into actionable insi
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fitness-tracker.git
-   cd fitness-tracker
+   git clone https://github.com/Kirankumarvel/Fitness-Tracker-Visualization.git
+   cd Fitness Tracker Visualization
    ```
 
 2. Set up virtual environment (recommended):
@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 For questions or suggestions:
 - Your Name - your.email@example.com
-- Project Link: [https://github.com/yourusername/fitness-tracker](https://github.com/yourusername/fitness-tracker)
+- Project Link: [https://github.com/Kirankumarvel/Fitness-Tracker-Visualization.git](https://github.com/Kirankumarvel/Fitness-Tracker-Visualization.git)
 
 ---
 
